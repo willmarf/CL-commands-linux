@@ -1,0 +1,9 @@
+ls                           lists current directory
+cd <input>                    navigate to directory
+python pyfile.py             runs a file
+nano file.file              text editor
+cat file.file              print the contents of a file
+ps -ef | grep python       shows me all the current python processes? feels kinda like windows control panel
+top                        similar to above but not python methinks
+ctrl+c                     cancel current thing
+> file.file               empty out the file contents
